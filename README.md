@@ -1,5 +1,7 @@
 # Smart Campus Resource Booking System
 
+https://github.com/dimphomaja117-byte/Assignments.git
+
 A desktop application built with Python and Tkinter for managing campus resource bookings across multiple campuses. The system supports three user roles — Lecturers, Campus Admins, and System Operators — each with their own dashboard and permissions.
 
 ---
